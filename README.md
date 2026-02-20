@@ -4,7 +4,7 @@ End-to-end Power BI data analytics project analyzing hotel revenue performance i
 
 =================================
 
-Project Overview
+1.Project Overview
 
 -This project simulates working as a data analyst for a multinational hotel chain, Atle GRS, operating across multiple cities in India.
 
@@ -12,7 +12,7 @@ Project Overview
 
 -The project follows the complete analytics lifecycle — requirement gathering, data modeling, measure creation, dashboard design, validation, and stakeholder feedback.
 
-Dataset
+2.Dataset
 
 Multiple CSV files representing hospitality business operations:
 
@@ -28,7 +28,7 @@ Multiple CSV files representing hospitality business operations:
 
 The dataset includes information on revenue, booking status, room capacity, cancellations, no-shows, booking platforms, and city-level performance.
 
-Tools & Technologies
+3.Tools & Technologies
 
 -Power BI – Data modeling, DAX measures, dashboard creation
 
@@ -36,7 +36,7 @@ Tools & Technologies
 
 -DAX – KPI calculations and advanced business metrics
 
-Work Performed
+4.Work Performed
 
 4.1 Data Cleaning & Transformation (Power Query)
 
@@ -114,7 +114,7 @@ Built an interactive revenue performance dashboard including:
 
 -Structured dashboard for Level 1 (overview) and Level 2 (drill-down) analysis
 
-Key Insights
+5.Key Insights
 
 -RevPAR, ADR, and Occupancy are primary drivers of revenue performance.
 
@@ -126,7 +126,7 @@ Key Insights
 
 -Weekend vs weekday segmentation reveals different customer behavior patterns.
 
-Business Impact
+6.Business Impact
 
 The dashboard enables management to:
 
@@ -142,7 +142,7 @@ The dashboard enables management to:
 
 This project demonstrates strong understanding of hospitality KPIs, data modeling, DAX logic, and stakeholder-focused dashboard design.
 
-Outcome
+7.Outcome
 
 -Delivered a complete hospitality revenue analytics solution using Power BI.
 
